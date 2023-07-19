@@ -1,1 +1,3 @@
 # POWER-BI-PROJECTS
+
+My main project is COVID DASHBOARD
